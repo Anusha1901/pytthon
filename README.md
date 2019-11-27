@@ -1,2 +1,1 @@
-# pytthon
-5+5
+python language
