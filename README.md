@@ -1,2 +1,5 @@
-# pytthon
-5+5
+a=5
+b=5
+add=a+b
+add
+10
